@@ -26,7 +26,7 @@ The best overall model was fine-tuned DistilBERT with 95.00% test accuracy and 0
 - `references/` contains source acknowledgements
 
 ## Code provenance and acknowledgements
-This project began from the CMP6231 text classification template and was extended for AG News.  
+This project began from the CMP6232 text classification template and was extended for AG News.  
 The Word2Vec section was informed by the vector semantics lab.  
 The AG News preprocessing, exploratory analysis, tuning experiments, classifier comparisons, subset-based transformer comparisons, and ablation studies were added for this project.
 
