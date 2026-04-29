@@ -23,7 +23,7 @@ The best overall model was fine-tuned DistilBERT with 95.00% test accuracy and 0
 - `notebooks/` contains the main notebook
 - `figures/` contains plots and confusion matrices
 - `references/` contains source acknowledgements
-- requirements.txt lists the dependencies needed to run the notebook
+- `requirements.txt` lists the dependencies needed to run the notebook
 
 ## Code provenance and acknowledgements
 This project began from the CMP6232 text classification template and was extended for AG News.  
