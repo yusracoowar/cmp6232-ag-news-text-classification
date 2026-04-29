@@ -22,7 +22,6 @@ The best overall model was fine-tuned DistilBERT with 95.00% test accuracy and 0
 ## Repository structure
 - `notebooks/` contains the main notebook
 - `figures/` contains plots and confusion matrices
-- `report/` contains the final report
 - `references/` contains source acknowledgements
 
 ## Code provenance and acknowledgements
