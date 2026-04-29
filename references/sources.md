@@ -1,7 +1,7 @@
 # Sources and acknowledgements
 
 ## Course materials
-- CMP6231 Text Classification Template
+- CMP6232 Text Classification Template
 - Lab 2 Vector Semantics
 
 ## Project-specific code extensions
